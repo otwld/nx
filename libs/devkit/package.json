@@ -1,0 +1,11 @@
+{
+  "name": "@otwld/nx-devkit",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "typings": "./index.d.ts"
+}
